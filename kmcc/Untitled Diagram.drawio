@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T04:40:06.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WKp4ouvKcSaw_-YkD9eG" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T07:00:32.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="w92co3So-NFfyBN7RmjB" version="20.2.8" type="github">
   <diagram id="r0i476w0nGkbk3gJ0_Lv" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,14 @@
         <mxCell id="nIdVTfhQjwEZyq9WSqcN-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 - Regular day&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 - Legal Holiday&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3 - Special Holiday&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="250" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kCFR2GJ9c2DEPi0Qp8yE-1" value="Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kCFR2GJ9c2DEPi0Qp8yE-1" value="Log per day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kCFR2GJ9c2DEPi0Qp8yE-2" value="Log per day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kCFR2GJ9c2DEPi0Qp8yE-3" value="check if&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
